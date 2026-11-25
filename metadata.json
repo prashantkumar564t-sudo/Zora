@@ -1,0 +1,6 @@
+{
+  "name": "ZORA",
+  "description": "Cinematic South Indian Streaming Showcase — Tamil, Telugu, Malayalam & Kannada cinema in 4K UHD & Dolby Atmos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
